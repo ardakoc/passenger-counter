@@ -1,8 +1,3 @@
 # Passenger Counter App
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+https://merry-faloodeh-579614.netlify.app/
